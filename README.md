@@ -36,7 +36,7 @@ As a passionate **Web and Mobile Development** student at **Cegep de Rosemont**,
 ## 💼 **Featured Projects**
 
 ### [📌 Check out Personal Projects](#)
-🔹 **[FootballShop](#)** - A dynamic e-commerce platform for football jerseys, built with **ASP.NET & JavaScript**.  
+🔹 **[FootballShop](https://github.com/itzPhil514/FootBallShop)** - A dynamic e-commerce platform for football jerseys, built with **ASP.NET & JavaScript**.  
 
 ### [📌 Check out more School Projects](#)
 🔹 **Hangman** - A mobile game project, built with **Kotlin**.  

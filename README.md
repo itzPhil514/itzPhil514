@@ -39,8 +39,8 @@ As a passionate **Web and Mobile Development** student at **Cegep de Rosemont**,
 🔹 **[FootballShop](https://github.com/itzPhil514/FootBallShop)** - A dynamic e-commerce platform for football jerseys, built with **ASP.NET & JavaScript**.  
 
 ### [📌 Check out more School Projects](#)
-🔹 **Hangman** - A mobile game project, built with **Kotlin**.  
-🔹 **SkillCravee** - A web project (similar to Indeed), built with **SpringBoot & Java**.  
+🔹 **[Hangman](https://github.com/itzPhil514/Pendu)** - A mobile game project, built with **Kotlin**.  
+🔹 **[SkillCravee](https://github.com/itzPhil514/Skillcravee)** - A web project (similar to Indeed), built with **SpringBoot & Java**.  
 🔹 **[Direction la Forêt Enchantée](https://itz-phil514.itch.io/direction-la-fort-enchante)** - A game available on Itch.io, built with **Unity & C#**.
 
 ---

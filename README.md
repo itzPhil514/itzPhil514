@@ -40,6 +40,7 @@ As a passionate **Web and Mobile Development** student at **Cégep de Rosemont**
 
 ### [📌 Check out Personal Projects](#)
 🔹 **[FootballShop](https://github.com/itzPhil514/FootBallShop)** - A dynamic e-commerce platform for football jerseys, built with **ASP.NET & JavaScript**.  
+🔹 **[CarDealerShip](https://github.com/itzPhil514/CarDealerShip)** - A dynamic platform for cars, built with **React & JavaScript**.(In Progess...)  
 
 ### [📌 Check out more School Projects](#)
 🔹 **[Hangman](https://github.com/itzPhil514/Pendu)** - A mobile game project, built with **Kotlin**.  

@@ -2,7 +2,7 @@
 
 ### 🚀 **Web & Mobile Developer**
 
-As a passionate **Web and Mobile Development** student at **Cégep de Rosemont**, I focus on creating innovative and dynamic digital solutions. My expertise lies in **C#, ASP.NET, JavaScript**, and **full-stack development**, allowing me to craft seamless experiences across platforms.
+I’m a **CS: Web and Mobile Developer** graduate from **Cégep de Rosemont** and currently pursuing my studies at **ÉTS**. Passionate about building innovative and dynamic digital solutions, I aim to create seamless and engaging user experiences across platforms.
 
 ---
 
@@ -51,7 +51,7 @@ As a passionate **Web and Mobile Development** student at **Cégep de Rosemont**
 
 ## 🎓 **Education & Certifications**
 
-🎓 **DEC in Web & Mobile Development** - **Cegep de Rosemont** (Expected May 2025)
+🎓 **DEC in Web & Mobile Development** - **Cégep de Rosemont** (May 2025)
 
 ---
 

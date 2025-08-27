@@ -49,10 +49,24 @@ I’m a **CS: Web and Mobile Developement** graduate from **Cégep de Rosemont**
 
 ---
 
-## 🎓 **Education & Certifications**
+## 🎓 Education & Certifications
 
-🎓 **DEC in Web & Mobile Development** - **Cégep de Rosemont** (May 2025)
+- **École de technologie supérieure (ÉTS)**  
+  *Bachelor’s Degree, Computer Software Engineering*  
+  *Aug 2025 – May 2029*
 
+- **Cégep de Rosemont**  
+  *Diploma of College Studies (DEC), Web & Mobile Development*  
+  *Jan 2021 – May 2025*
+
+- **Collège LaSalle, Montréal**  
+  *Diploma of College Studies (DEC), Video Game Development*  
+  *Jan 2020 – Dec 2020*
+
+- **John Abbott College**  
+  *Diploma of College Studies (DEC), Social Sciences*  
+  *Sep 2019 – Dec 2019*
+  
 ---
 
 ## 📬 **Let's Connect!**

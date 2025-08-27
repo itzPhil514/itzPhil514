@@ -2,7 +2,7 @@
 
 ### 🚀 **Web & Mobile Developer**
 
-I’m a **CS: Web and Mobile Developer** graduate from **Cégep de Rosemont** and currently pursuing my studies at **ÉTS**. Passionate about building innovative and dynamic digital solutions, I aim to create seamless and engaging user experiences across platforms.
+I’m a **CS: Web and Mobile Developement** graduate from **Cégep de Rosemont** and currently pursuing my studies at **ÉTS**. Passionate about building innovative and dynamic digital solutions, I aim to create seamless and engaging user experiences across platforms.
 
 ---
 

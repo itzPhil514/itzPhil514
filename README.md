@@ -66,7 +66,11 @@ I’m a **CS: Web and Mobile Developement** graduate from **Cégep de Rosemont**
 - **John Abbott College**  
   *Diploma of College Studies (DEC), Social Sciences*  
   *Sep 2019 – Dec 2019*
-  
+
+- **École secondaire Saint-George**  
+  *High School Diploma*  
+  *Aug 2015 – May 2019*
+    
 ---
 
 ## 📬 **Let's Connect!**

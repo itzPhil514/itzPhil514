@@ -53,7 +53,7 @@ I’m a **CS: Web and Mobile Developement** graduate from **Cégep de Rosemont**
 
 - **École de technologie supérieure (ÉTS)**  
   *Bachelor’s Degree, Computer Software Engineering*  
-  *Aug 2025 – May 2029*
+  *Sep 2025 – May 2029*
 
 - **Cégep de Rosemont**  
   *Diploma of College Studies (DEC), Web & Mobile Development*  
